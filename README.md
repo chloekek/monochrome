@@ -1,3 +1,5 @@
+> ⚠️ This is a fork of the original Monochrome theme collection with colorized editor errors and warnings. [Check diff for details](https://github.com/anotherglitchinthematrix/monochrome/compare/master...dkamyshov:fork).
+
 <p align="center">
   <img src="./icon.png" width="128"/>
 </p>

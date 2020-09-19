@@ -115,6 +115,8 @@ const warningScheme = (color) => {
       'listFilterWidget.noMatchesOutline': error,
       'list.errorForeground': error,
       'list.warningForeground': warning,
+      'editorError.foreground': error,
+      'editorWarning.foreground': warning,
     },
   };
 };

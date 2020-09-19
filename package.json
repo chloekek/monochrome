@@ -1,8 +1,8 @@
 {
   "name": "monochrome",
-  "displayName": "Monochrome",
+  "displayName": "Monochrome (fork by dkamyshov)",
   "description": "Monochromatic theme collection, for those who seeks.",
-  "publisher": "anotherglitchinthematrix",
+  "publisher": "dkamyshov",
   "version": "2.3.0",
   "license": "MIT",
   "icon": "icon.png",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anotherglitchinthematrix/monochrome.git"
+    "url": "https://github.com/dkamyshov/monochrome.git"
   },
   "bugs": {
-    "url": "https://github.com/anotherglitchinthematrix/monochrome/issues"
+    "url": "https://github.com/dkamyshov/monochrome/issues"
   },
   "engines": {
     "vscode": "^1.43.0"
@@ -39,32 +39,32 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monochrome Dark",
+        "label": "Monochrome Dark (fork by dkamyshov)",
         "uiTheme": "vs-dark",
         "path": "./theme/monochrome-dark.json"
       },
       {
-        "label": "Monochrome Light",
+        "label": "Monochrome Light (fork by dkamyshov)",
         "uiTheme": "vs",
         "path": "./theme/monochrome-light.json"
       },
       {
-        "label": "Monochrome Dark Subtle",
+        "label": "Monochrome Dark Subtle (fork by dkamyshov)",
         "uiTheme": "vs-dark",
         "path": "./theme/monochrome-dark-subtle.json"
       },
       {
-        "label": "Monochrome Light Subtle",
+        "label": "Monochrome Light Subtle (fork by dkamyshov)",
         "uiTheme": "vs",
         "path": "./theme/monochrome-light-subtle.json"
       },
       {
-        "label": "Monochrome Dark Amplified",
+        "label": "Monochrome Dark Amplified (fork by dkamyshov)",
         "uiTheme": "vs-dark",
         "path": "./theme/monochrome-dark-amplified.json"
       },
       {
-        "label": "Monochrome Light Amplified",
+        "label": "Monochrome Light Amplified (fork by dkamyshov)",
         "uiTheme": "vs",
         "path": "./theme/monochrome-light-amplified.json"
       }
