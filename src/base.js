@@ -167,6 +167,7 @@ const base = () => {
       'symbolIcon.typeParameterForeground': 0.5686274509803921,
       'symbolIcon.unitForeground': 0.5686274509803921,
       'symbolIcon.variableForeground': 0.5686274509803921,
+      'tab.activeBackground': 0.02,
       'tab.activeForeground': 0.7490196078431373,
       'tab.border': 0,
       'tab.inactiveBackground': 0,
